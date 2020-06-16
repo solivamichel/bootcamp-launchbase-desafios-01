@@ -11,6 +11,6 @@ const mulherPodeAposentar = sexo == 'F' && contribuicao >= 35 && calculoContribu
 if ( homemPodeAposentar || mulherPodeAposentar ) {
     console.log(`${nome}, você pode se aposentar !!`)
 } else {
-    console.log(`${nome}, você não pode se aposentar !!`)
+    console.log(`${nome}, você ainda não pode se aposentar s!!`)
 }
 
