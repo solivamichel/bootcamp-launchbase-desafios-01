@@ -1,13 +1,22 @@
 <h1 align="center">
     <img src="https://ik.imagekit.io/n8yldlhahz/launchbase_tMFxzi0lp.png" width="60%">
 </h1>
-<hr />
+
 
 <h2 align="center">Desafio 1-1: Primeiros passos com JS</h2>
 <br /><br />
 
-## 🚀 **Sobre o desafio**
-<hr />
+# Indice
+---
+
+- [Sobre](#-sobre-o-desafio)
+- [Calculo de Imc](#-calculo-de-imc)
+
+
+<br />
+
+## 🚀 **Sobre o Desafio**
+---
 
 Desafios para fortalecer alguns conceitos, entre eles:
 
@@ -17,9 +26,9 @@ Desafios para fortalecer alguns conceitos, entre eles:
 
 - Operadores;
 
-<hr />
+---
 
-## 🚀 **Cálculo de IMC**
+## 🚀 **Calculo de IMC**
 
 Crie um programa para calcular o IMC e nível de obesidade de uma pessoa.
 
