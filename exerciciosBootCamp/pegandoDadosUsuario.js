@@ -21,4 +21,4 @@ let ageConfirmation = confirm("Sua idade é " + age + " ? ")
 //      * A idade digitada
 //      * A confirmação da idade
 
-alert("Nome: " + name + "\nIdade " + age + "\Idade confirmada: " + ageConfirmation)
+alert("Nome: " + name + "\nIdade " + age + "\Idade confirmada: " + ageConfirmation);
